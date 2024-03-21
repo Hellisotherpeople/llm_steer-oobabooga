@@ -9,9 +9,35 @@ Steer LLM outputs towards a certain topic/subject and enhance response capabilit
 
 1.   ```pip3 install llm_steer``` (Make sure pip3 corresponds to the particular pip used by oobabooga, for me it's the pip3 /home/(user)/text-generation-webui/installer_files/env/bin/pip3)
   
-3. run oobabooga, and navigate to the session page. Copy and paste the github url (https://github.com/Hellisotherpeople/llm_steer-oobabooga) into the install box and press enter.
+2. run oobabooga, and navigate to the session page. Copy and paste the github url (https://github.com/Hellisotherpeople/llm_steer-oobabooga) into the install box and press enter.
   ![Screenshot from 2024-03-20 16-29-03.png](https://raw.githubusercontent.com/Hellisotherpeople/llm_steer-oobabooga/main/Screenshot%20from%202024-03-20%2016-29-03.png)
-4. enable the extension 
+
+
+# Usage
+
+There are three values: 
+
+**Layer Index (int)**: 
+Which layer should the steering vector be inserted into? 
+
+This is not well understood, but in general, the earlier layers are supposedly more "general" and potentially more "impactful". Results will very
+
+Mistral models usually have at least 24 layers. 
+
+
+**Coefficient (float)**:
+The intensity of the vector. Gives fully graiular control over the impact of the vector. Can be negative. 
+
+
+**Steering Text (string)**: 
+The prompt used for creating the vector.
+
+Set these values and click "Add Steering Vector". Any combination of steering vectors can be used at the same time. 
+
+To reset and delete all Steering Vectors, click "Reset Steering Vectors"
+
+To view the currently applied Steering Vectors, click "Get Steering Vectors"
+
 
 # Why is this a big deal?
 
