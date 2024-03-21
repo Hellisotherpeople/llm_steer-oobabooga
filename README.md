@@ -1,7 +1,7 @@
 # llm_steer-oobabooga
 Steer LLM outputs towards a certain topic/subject and enhance response capabilities using activation engineering by adding steering vectors, now integrated within the [oobabooga text generation webui!](https://github.com/oobabooga/text-generation-webui)
 
-[llm_steer](https://github.com/Mihaiii/llm_steer), the underlying codebased utilized for this extension, was created by https://github.com/Mihaiii
+[llm_steer](https://github.com/Mihaiii/llm_steer), the underlying codebase utilized for this extension, was created by https://github.com/Mihaiii
 
 
 
