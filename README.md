@@ -26,7 +26,7 @@ Mistral models usually have at least 24 layers.
 
 
 **Coefficient (float)**:
-The intensity of the vector. Gives fully graiular control over the impact of the vector. Can be negative. 
+The intensity of the vector. Gives fully granular control over the impact of the vector. Can be negative. 
 
 
 **Steering Text (string)**: 
