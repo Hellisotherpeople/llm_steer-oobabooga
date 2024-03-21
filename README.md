@@ -3,7 +3,7 @@ Steer LLM outputs towards a certain topic/subject and enhance response capabilit
 
 [llm_steer](https://github.com/Mihaiii/llm_steer), the underlying codebase utilized for this extension, was created by https://github.com/Mihaiii
 
-
+Note: This extension only works for models loaded using the "transformers" backend. 
 
 # Installation
 
