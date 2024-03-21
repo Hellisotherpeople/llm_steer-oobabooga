@@ -7,7 +7,7 @@ Steer LLM outputs towards a certain topic/subject and enhance response capabilit
 
 # Installation
 
-1.   ```pip3 install llm_steer``` (Make sure pip3 corresponds to the particular pip used by oobabooga, for me it's the pip3 /home/(user)/text-generation-webui/installer_files/env/bin/pip3)
+1.   ```pip3 install llm_steer``` (Make sure pip3 corresponds to the particular pip used by oobabooga, for me it's the pip3 located at ```/home/(user)/text-generation-webui/installer_files/env/bin/pip3``` - otherwise oobabooga won't pick up the installed package)
   
 2. run oobabooga, and navigate to the session page. Copy and paste the github url (https://github.com/Hellisotherpeople/llm_steer-oobabooga) into the install box and press enter.
   ![Screenshot from 2024-03-20 16-29-03.png](https://raw.githubusercontent.com/Hellisotherpeople/llm_steer-oobabooga/main/Screenshot%20from%202024-03-20%2016-29-03.png)
