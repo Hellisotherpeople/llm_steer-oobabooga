@@ -57,7 +57,7 @@ Related ideas/inspiration:
 1. [repeng/control vectors](https://github.com/vgel/repeng)
 2. [Prompt Fusion (for automatic1111)](https://github.com/ljleb/prompt-fusion-extension)
 
-# Screemshots
+# Screenshots
 (No vector)
 
 ![image](https://github.com/Hellisotherpeople/llm_steer-oobabooga/assets/12686966/3c24d58d-aae1-4d55-8560-09a6c294afb2)
