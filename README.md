@@ -52,21 +52,24 @@ Further Background on Steering Vectors:
 1. [Activation Addition: Steering Language Models Without Optimization](https://arxiv.org/abs/2308.10248)
 2. [Steering GPT-2-XL by adding an activation vector](https://www.greaterwrong.com/posts/5spBue2z2tw4JuDCx/steering-gpt-2-xl-by-adding-an-activation-vector)
 
-# Related ideas/inspiration:
+Related ideas/inspiration:
 
 1. [repeng/control vectors](https://github.com/vgel/repeng)
 2. [Prompt Fusion (for automatic1111)](https://github.com/ljleb/prompt-fusion-extension)
 
 # Screemshots
 (No vector)
+
 ![image](https://github.com/Hellisotherpeople/llm_steer-oobabooga/assets/12686966/3c24d58d-aae1-4d55-8560-09a6c294afb2)
 
 (Add Sad Vector) 
+
 ![image](https://github.com/Hellisotherpeople/llm_steer-oobabooga/assets/12686966/e7d4d331-e7b2-4390-8e21-a8fa3d97672c)
 
 ![image](https://github.com/Hellisotherpeople/llm_steer-oobabooga/assets/12686966/375da759-e059-4168-bec2-d1b25dd9f476)
 
 (Add Tax Preperation Vector)
+
 ![image](https://github.com/Hellisotherpeople/llm_steer-oobabooga/assets/12686966/0af98f35-23ed-414a-a1e8-96b8ea0b783b)
 
 ![image](https://github.com/Hellisotherpeople/llm_steer-oobabooga/assets/12686966/0d18e73b-8e2c-44c7-8f39-d33f8f154fed)
